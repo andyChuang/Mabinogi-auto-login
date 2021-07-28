@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "contactclient.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "check.js" ],
+      "matches": [ "*://tw.beanfun.com/*" ]
+   } ],
+   "description": "Receive a message from a native application.",
+   "differential_fingerprint": "1.d38b55b8ecbe1b4f2a42b9f83b95e329e6e87867852b6d0180bc976bc41b44ce",
+   "icons": {
+      "128": "beanfun!.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl7aWKU5Nn82wh5xHo5m6TFyns4Jgcb6Wo4s7L5/tg+1J85hdvSbik3c73Z3LumEtxTsgX41+3c0Bz6Ug7I9YDiFnNPvaF8pAS9uw4fzMT3OvH7+s2PRAUedSSdCE+qKKJV6Ru0K5AmhwtcslChgQ1zXsK8sTtqemlAX13CQeAc/YEbabaEo09sn9PGFVnAWKd9tMVVkkTytSo9lbul5HEBEuuZ//aWtBZkbvhTr2793ccre2sMvwYRGmsRM/ErEbsZGxBEER3MsTGtKucwol6kHGJUuiR5+RyIYcOPRTw1lNlow/3jbvQ/4Il3EDt3Lpmx8HIJYv+UDm1DYPRdDJeQIDAQAB",
+   "manifest_version": 2,
+   "name": "遊戲橘子擴充元件",
+   "permissions": [ "nativeMessaging", "*://tw.beanfun.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.0"
+}
