@@ -3,7 +3,7 @@
 其實就是省去輸入帳密的時間而已，還是透過beanfun網頁登入, 而且還是有些許手動部分XDD
 
 ## 使用說明
-### 選項一、直接下載[最新版本執行檔]() (V1.0.0)
+### 選項一、直接下載[最新版本執行檔](https://github.com/andyChuang/Mabinogi-auto-login/releases)
 1. 待Release
 1. 下載Mabinogi-auto-login.zip並解壓縮
 2. 在同Mabinogi-auto-login資料夾內建立`account.json`，格式如下：
