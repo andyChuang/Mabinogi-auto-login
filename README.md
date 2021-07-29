@@ -29,7 +29,7 @@
 ]
 ```
 
-4. 執行Mabinogi-auto-login-via-web.exe
+3. 執行Mabinogi-auto-login-via-web.exe
 
 ### 選項二、如果你擔心我會偷你的帳密，你可以直接下載原始碼，檢查過後再用
 1. 首先你要有裝python3 (建議3.7)
