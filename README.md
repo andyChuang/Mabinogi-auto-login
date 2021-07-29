@@ -4,9 +4,8 @@
 
 ## 使用說明
 ### 選項一、直接下載[最新版本執行檔](https://github.com/andyChuang/Mabinogi-auto-login/releases)
-1. 待Release
-1. 下載Mabinogi-auto-login.zip並解壓縮
-2. 在同Mabinogi-auto-login資料夾內建立`account.json`，格式如下：
+1. 下載Mabinogi-auto-login-via-web.zip並解壓縮
+2. 在同Mabinogi-auto-login-via-web資料夾內建立`account.json`，格式如下：
 ```
 [
 {
@@ -30,7 +29,7 @@
 ]
 ```
 
-4. 執行Mabinogi-auto-login.exe
+4. 執行Mabinogi-auto-login-via-web.exe
 
 ### 選項二、如果你擔心我會偷你的帳密，你可以直接下載原始碼，檢查過後再用
 1. 首先你要有裝python3 (建議3.7)
