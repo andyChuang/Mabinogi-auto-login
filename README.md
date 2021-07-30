@@ -29,7 +29,10 @@
 ]
 ```
 
-3. 執行Mabinogi-auto-login-via-web.exe
+3. 執行Mabinogi-auto-login-via-web.exe，並依指示選擇你要登入的帳號
+4. 程式會自動執行直到跳出下列畫面，接下來請手動進行
+![螢幕擷取畫面 2021-07-31 003542](https://user-images.githubusercontent.com/2863011/127684391-986493d6-ece4-42c1-926b-df633b37018e.png)
+6. 遊戲畫面跳出後就可以把程式和網頁關掉了
 
 ### 選項二、如果你擔心我會偷你的帳密，你可以直接下載原始碼，檢查過後再用
 1. 首先你要有裝python3 (建議3.7)
@@ -60,6 +63,9 @@
 ]
 ```
 6. python play.py
+7. 程式會自動執行直到跳出下列畫面，接下來請手動進行
+![螢幕擷取畫面 2021-07-31 003542](https://user-images.githubusercontent.com/2863011/127684391-986493d6-ece4-42c1-926b-df633b37018e.png)
+8. 遊戲畫面跳出後就可以把程式和網頁關掉了
 
 ## To-do
 
